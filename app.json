@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RandomQuoteGenerator_App",
+    "slug": "random-quote-generator-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#7C3AED"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.randomquotegenerator"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7C3AED"
+      },
+      "package": "com.yourname.randomquotegenerator"
+    }
+  }
+}
